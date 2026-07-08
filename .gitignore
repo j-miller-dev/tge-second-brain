@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+.vscode/settings.json.local
+*.swp
+*.tmp
+
+# Optional local attachments
+Assets/*.tmp
