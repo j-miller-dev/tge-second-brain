@@ -3,5 +3,5 @@
   "attachmentFolderPath": "Assets",
   "promptDelete": false,
   "showLineNumber": true,
-  "defaultViewMode": "source"
+  "defaultViewMode": "preview"
 }
