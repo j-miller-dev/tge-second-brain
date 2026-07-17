@@ -1,6 +1,11 @@
 ---
 title: Untitled Note
-created: 2026-07-06
+created: 2026-07-17
+type: hybrid
+source: 
+related_notes:
+  - 
+
 tags:
   - note
 ---
@@ -10,8 +15,14 @@ tags:
 ## Summary
 - 
 
+## Main Idea
+- 
+
 ## Notes
 - 
 
+## Source / Context
+- 
+
 ## Related
-- [[Notes/Index]]
+- [[Permanent Notes/Index]]

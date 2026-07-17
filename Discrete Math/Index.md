@@ -1,22 +1,15 @@
 # Discrete Math
 
-## Topics
-- Logic
-- Sets
-- Functions
-- Relations
-- Proof techniques
-- Counting
+This folder now acts as a domain hub for discrete math study notes and related materials.
 
-## Study workflow
-- Create one note per topic.
-- Add examples and definitions.
-- Link related concepts together.
+## Structure
+- Use [[Literature Notes/Index]] for lecture and chapter notes.
+- Use [[Permanent Notes/Index]] for atomic ideas and proof techniques.
+- Use [[Projects/Index]] for study plans and problem-solving checklists.
 
-## Math example
-Inline equation: $E = mc^2$
-
-Block equation:
-$$
-\int_a^b x^2 \, dx
-$$
+## Suggested topics
+- Logic and proof
+- Sets and functions
+- Induction and recursion
+- Counting and probability
+- Graphs and relations
